@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">  
+  <ribbon startFromScratch="false"> 
+    <tabs>
+      <tab id="Tab_Stats" label="Stats"> 
+        <group id="Group1" label="MyGroup1">
+          <button id="Button1" label="Opposite" image="Opposite" size="large" onAction="TakeOpposite"/> 
+        </group>
+        <group id="Group2" label="MyGroup2">
+          <button id="Button2" label="Round&#x000A;(Percentile)" image="RoundToPercentile" size="large" onAction="RoundToPercentile"/>  
+          <button id="Button3" label="Round&#x000A;(Integer)" image="RoundToInteger" size="large" onAction="RoundToInteger"/> 
+        </group>
+      </tab> 
+    </tabs> 
+  </ribbon> 
+</customUI>
