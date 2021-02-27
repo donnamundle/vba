@@ -176,6 +176,3 @@ View the [changelog](https://github.com/VBA-tools/VBA-Web/blob/master/CHANGELOG.
 
 - Author: Tim Hall
 - License: MIT
-
-
-// great works!
