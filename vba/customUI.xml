@@ -9,7 +9,7 @@
           <buttongroup />
           <button id="Button1" label="Opposite" image="Opposite" size="large" onAction="TakeOpposite"/> 
         </group>
-      </tab> 
+      </tab>  
     </tabs> 
   </ribbon> 
 </customUI>
