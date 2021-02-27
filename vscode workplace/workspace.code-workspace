@@ -5,6 +5,10 @@
 		},
 		{
 			"path": "..\\py"
+		},
+		{
+			"name": "VBA-Web",
+			"path": "..\\vba-tools\\VBA-Web"
 		}
 	],
 	"settings": {}
