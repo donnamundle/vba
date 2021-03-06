@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-c = 1 # 尺度系数
+c = 1 # 尺度系数    位置参数
 k = 2 # 形状系数
 
 def weib(x):
